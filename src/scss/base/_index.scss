@@ -1,0 +1,8 @@
+//para incluir archivos dentro de otros
+@forward 'normalize';
+@forward 'variables';
+@forward 'globales';
+@forward 'utilidades';
+@forward 'tipografia';
+@forward 'mixins';
+//use e import los inlcuye y ademas van a utilizar el contenido y se usa en el app.scss
